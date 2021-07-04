@@ -1,0 +1,13 @@
+C:\Users\Walter\Desktop\prograIII\holamundo\bin\Debug\netcoreapp3.1\holamundo.exe
+C:\Users\Walter\Desktop\prograIII\holamundo\bin\Debug\netcoreapp3.1\holamundo.deps.json
+C:\Users\Walter\Desktop\prograIII\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.json
+C:\Users\Walter\Desktop\prograIII\holamundo\bin\Debug\netcoreapp3.1\holamundo.runtimeconfig.dev.json
+C:\Users\Walter\Desktop\prograIII\holamundo\bin\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\Walter\Desktop\prograIII\holamundo\bin\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\Walter\Desktop\prograIII\holamundo\obj\Debug\netcoreapp3.1\holamundo.csprojAssemblyReference.cache
+C:\Users\Walter\Desktop\prograIII\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfoInputs.cache
+C:\Users\Walter\Desktop\prograIII\holamundo\obj\Debug\netcoreapp3.1\holamundo.AssemblyInfo.cs
+C:\Users\Walter\Desktop\prograIII\holamundo\obj\Debug\netcoreapp3.1\holamundo.csproj.CoreCompileInputs.cache
+C:\Users\Walter\Desktop\prograIII\holamundo\obj\Debug\netcoreapp3.1\holamundo.dll
+C:\Users\Walter\Desktop\prograIII\holamundo\obj\Debug\netcoreapp3.1\holamundo.pdb
+C:\Users\Walter\Desktop\prograIII\holamundo\obj\Debug\netcoreapp3.1\holamundo.genruntimeconfig.cache
